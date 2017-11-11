@@ -1,7 +1,7 @@
 {
-  "name": "chrono-parser",
+  "name": "chrono-ddmm-refiner",
   "version": "1.0.0",
-  "description": "Custom parser for Chronos",
+  "description": "Custom DD/MM refiner for Chronos",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
